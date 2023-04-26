@@ -1,0 +1,34 @@
+.s{
+    background: url(background.webp);
+    background-repeat: repeat;
+    background-size: 100px 100px;
+    opacity: .3;
+    height: 100vh;
+    top:0px;
+    right:0px;
+    bottom:0px;
+    left:0px;
+    position: absolute;
+    z-index: -1;
+}
+table {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 30px;
+    color: black;
+    border: 5px solid;
+    border-color: gray;
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:30%;
+    background-color: gray;
+    
+}
+button
+{
+width: 90px;
+height: 30px;
+background-color: black;
+color:white;
+}
+
